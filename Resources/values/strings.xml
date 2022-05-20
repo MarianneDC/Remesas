@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppRemesas</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="txtRemesas">Lista de Años</string>
+    <string name="txtMeses">Lista de Meses</string>
+    <string name="txtTotal">Sumatoria por Año</string>
+</resources>
